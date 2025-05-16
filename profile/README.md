@@ -27,11 +27,20 @@ Documentaion of the kpt project is in [https://kpt.dev/](https://kpt.dev/).
 Governance of the kpt project is described in the
 [Governance repository](https://github.com/kptdev/governance/blob/main/README.md).
 
+## 🦟 Issues
+
+Issues of all repos are managed under the [issues of the kpt repo](https://github.com/kptdev/kpt/issues). 
+
 ## 👋 Comms 
 
 ### Slack
 
 You can reach us in the #kpt channel on the [Kubernetes Slack](https://communityinviter.com/apps/kubernetes/community).
+
+### Discussions
+
+Discussion about all the repos in this organisation are in the
+[Discussions of the kpt repo](https://github.com/kptdev/kpt/discussions).
 
 ### Mailing list
 
