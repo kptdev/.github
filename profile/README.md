@@ -33,12 +33,21 @@ Governance of the kpt project is described in the
 
 You can reach us in the #kpt channel on the [Kubernetes Slack](https://communityinviter.com/apps/kubernetes/community).
 
+### Discussions
+
+You can participate discussions related to kpt in the
+[Discussions tab of the kpt repo](https://github.com/kptdev/kpt/discussions). 
+
 ### Mailing list
 
-We have a kpt users [mailing list](https://groups.google.com/forum/?oldui=1#!forum/kpt-users).
+We have a kpt users [mailing list](https://groups.google.com/forum/?oldui=1#!forum/kpt-users) what we do not use, we
+would like to encourage everyone to participate in the [Discussions](https://github.com/kptdev/kpt/discussions) instead.
 
 ## Repository structure
 
 - [kpt](https://github.com/kptdev/kpt): The main logic of kpt.
+- [krm-functions-catalog](https://github.com/kptdev/krm-functions-catalog): A set of curated functions to validate or
+  mutate KRMs. 
+- [krm-functions-sdk](https://github.com/kptdev/krm-functions-sdk): An opinioneted SDK to developp KRM functions.
 - [governance](https://github.com/kptdev/governance): Governance of the kpt project.
 - [.github](https://github.com/kptdev/.github): GitHub organisation level settings (this repo)
