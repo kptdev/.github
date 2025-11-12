@@ -1,4 +1,4 @@
-![kpt logo](https://github.com/kptdev/kpt/blob/main/logo/KptLogoSmall.png?raw=true)
+![kpt logo](../kpt_stacked_color-100x123.png)
 
 # kpt: Automate Kubernetes Configuration Editing
 
