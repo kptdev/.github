@@ -49,5 +49,15 @@ We have a kpt users [mailing list](https://groups.google.com/forum/?oldui=1#!for
 ## Repository structure
 
 - [kpt](https://github.com/kptdev/kpt): The main logic of kpt.
+- [krm-function-catalog](https://github.com/kptdev/krm-functions-catalog): A [catalog](https://catalog.kpt.dev/) of
+  off-the-shelf, tested functions. kpt makes configuration easy to create and transform, via reusable functions. Because
+  they are expected to be used for in-place transformation, the functions need to be idempotent.
+- [krm-function-sdk](https://github.com/kptdev/krm-functions-sdk): Any general-purpose or domain-specific language can
+  be used to create functions to transform and/or validate the YAML KRM input/output format, but we provide SDKs to
+  simplify the function authoring process in [Go](https://kpt.dev/book/05-developing-functions/02-developing-in-Go).
+- [kpt-backstage-plugins](https://github.com/kptdev/kpt-backstage-plugins): We've created a proof-of-concept UI in the
+  form of a [Backstage UI plugin](https://github.com/kptdev/kpt-backstage-plugins) to demonstrate the WYSIWYG
+  experience that's possible on top of the package orchestrator. More scenarios can be supported by implementing
+  form-based editors for additional Kubernetes resource types.
 - [governance](https://github.com/kptdev/governance): Governance of the kpt project.
 - [.github](https://github.com/kptdev/.github): GitHub organisation level settings (this repo)
