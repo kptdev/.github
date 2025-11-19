@@ -44,10 +44,14 @@ Discussion about all the repos in this organisation are in the
 
 ### Mailing list
 
-We have a kpt users [mailing list](https://groups.google.com/forum/?oldui=1#!forum/kpt-users).
+We have a kpt users [mailing list](https://groups.google.com/forum/?oldui=1#!forum/kpt-users) what we do not use, we
+would like to encourage everyone to participate in the [Discussions](https://github.com/kptdev/kpt/discussions) instead.
 
 ## Repository structure
 
 - [kpt](https://github.com/kptdev/kpt): The main logic of kpt.
+- [krm-functions-catalog](https://github.com/kptdev/krm-functions-catalog): A set of curated functions to validate or
+  mutate KRMs. 
+- [krm-functions-sdk](https://github.com/kptdev/krm-functions-sdk): An opinionated SDK to develop KRM functions.
 - [governance](https://github.com/kptdev/governance): Governance of the kpt project.
 - [.github](https://github.com/kptdev/.github): GitHub organisation level settings (this repo)
