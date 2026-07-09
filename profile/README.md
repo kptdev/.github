@@ -53,5 +53,8 @@ would like to encourage everyone to participate in the [Discussions](https://git
 - [krm-functions-catalog](https://github.com/kptdev/krm-functions-catalog): A set of curated functions to validate or
   mutate KRMs. 
 - [krm-functions-sdk](https://github.com/kptdev/krm-functions-sdk): An opinionated SDK to develop KRM functions.
+- [porch](https://github.com/kptdev/porch): The kpt package orchestrator.
+- [kpt-backstage-plugins](https://github.com/kptdev/kpt-backstage-plugins): A prototype package orchestration backstage plugin that uses the Porch API.
+- [kpt-samples](https://github.com/kptdev/kpt-samples): Sample kpt packages.
 - [governance](https://github.com/kptdev/governance): Governance of the kpt project.
 - [.github](https://github.com/kptdev/.github): GitHub organisation level settings (this repo)
