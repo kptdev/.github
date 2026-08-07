@@ -18,6 +18,8 @@ Configuration as Data is an approach to management of configuration which:
 
 See the [FAQ](https://kpt.dev/faq/) for more details about how kpt is different from alternatives.
 
+You can ask anything about kpt in our [public Dosu space](https://github.dosu.com/kptdev/kpt).
+
 ## 📖 Documentation 
 
 Documentaion of the kpt project is in [https://kpt.dev/](https://kpt.dev/).
